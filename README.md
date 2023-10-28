@@ -25,3 +25,5 @@ Install react and react DOM
 -HTTPS hoisting
 -Tree shaking (Remove unnecassery code)
 -Different dev and prod build
+
+Add browsers list
