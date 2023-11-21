@@ -27,3 +27,11 @@ Install react and react DOM
 -Different dev and prod build
 
 Add browsers list
+
+
+/* 
+-Header ---> Logo, Nav
+-Body ---> Search , Rerstaurnet card
+-Footer --> Links, Address, Contact
+
+*/
